@@ -1,0 +1,26 @@
+[25-Jan-2024 17:10:21 Europe/Berlin] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Unable to parse URL in /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php:23
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest()
+#1 /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php(23): SoapClient->__call()
+#2 {main}
+  thrown in /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php on line 23
+[25-Jan-2024 17:11:16 Europe/Berlin] PHP Fatal error:  Uncaught SoapFault exception: [Client] looks like we got no XML document in /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php:23
+Stack trace:
+#0 /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php(23): SoapClient->__call()
+#1 {main}
+  thrown in /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php on line 23
+[25-Jan-2024 17:11:43 Europe/Berlin] PHP Fatal error:  Uncaught SoapFault exception: [Client] looks like we got no XML document in /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php:23
+Stack trace:
+#0 /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php(23): SoapClient->__call()
+#1 {main}
+  thrown in /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php on line 23
+[25-Jan-2024 17:15:28 Europe/Berlin] PHP Fatal error:  Uncaught SoapFault exception: [Wrong user/pass combination] 401 in /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php:24
+Stack trace:
+#0 /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php(24): SoapClient->__call()
+#1 {main}
+  thrown in /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php on line 24
+[26-Jan-2024 16:49:32 Europe/Berlin] PHP Fatal error:  Uncaught SoapFault exception: [Client] looks like we got no XML document in /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php:24
+Stack trace:
+#0 /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php(24): SoapClient->__call()
+#1 {main}
+  thrown in /media/tarde/A1AB-ED3B/2º DAW/Servidor/Tema 7 Web Services/soap-automoviles/test-client.php on line 24
